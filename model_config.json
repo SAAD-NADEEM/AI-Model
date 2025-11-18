@@ -1,0 +1,21 @@
+{
+  "input_shape": [
+    40,
+    174,
+    1
+  ],
+  "num_classes": 8,
+  "emotion_labels": [
+    "angry",
+    "calm",
+    "disgust",
+    "fearful",
+    "happy",
+    "neutral",
+    "sad",
+    "surprised"
+  ],
+  "test_accuracy": 0.7361111044883728,
+  "mfcc_coefficients": 40,
+  "max_pad_length": 174
+}
