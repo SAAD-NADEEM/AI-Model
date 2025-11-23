@@ -50,3 +50,6 @@ print(f"Confidence: {confidence:.2%}")
 
 Created using Google Colab
 Date: 2025-11-18
+
+Acknowledgment
+This project was completed under the supervision of 👨‍🏫 Anwar Ali Sathio.
